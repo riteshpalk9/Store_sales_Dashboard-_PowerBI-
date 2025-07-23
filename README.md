@@ -2,7 +2,8 @@
 
 An interactive Power BI dashboard built using Superstore sales data to uncover business insights, forecast sales, and visualize KPIs across multiple dimensions.
 
-![Dashboard Screenshot](./b7be8665-1aa3-43e2-9c83-d4d56e33b609.png)
+![Dashboard Screenshot](./1.png)
+![Dashboard Screenshot](./2.png)
 
 ---
 
